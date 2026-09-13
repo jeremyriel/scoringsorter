@@ -1,0 +1,14 @@
+# Generated run folders. Each run writes a timestamped directory here; they are
+# working output, regenerated on demand, and can carry real cohort sizes.
+output/*
+!output/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
